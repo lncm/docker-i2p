@@ -1,3 +1,9 @@
+# i2p in a docker container
+
+## About
+
+Credit goes to [docker-i2p](https://github.com/PrivacySolutions/docker-i2p) for some of the legwork. It was not quite fully working but thanks to [the debian instructions](https://geti2p.net/en/download/debian) have managed to get this working.
+Will expend this further and support versioning.
 
 ## Running
 
